@@ -99,7 +99,6 @@ Software Engineer with hands-on experience building full-stack applications, RES
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 `TDD` · `REST APIs` · `Microservices` · `OAuth2` · `SSL/TLS` · `VPC` · `Agile/Scrum` · `WebSockets`
 
