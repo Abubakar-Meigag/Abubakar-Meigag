@@ -22,7 +22,7 @@ Software Engineer with hands-on experience building full-stack applications, RES
 
 - 🌱 Always learning — AWS Certified Cloud Practitioner, McKinsey Forward Program alumnus
 - 🔧 I enjoy owning problems end-to-end: UI → API → infra → monitoring
-- 💬 Ask me about AWS, Docker, React, Node.js or Spring Boot microservices
+- 💬 Ask me about React, Node.js, AWS, Docker, CI/CD, or Spring Boot microservices
 - ⚡ Fun fact: I believe in two things: clean documentation and good food. Both are rare, both are worth the effort
 
 ---
