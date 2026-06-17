@@ -1,8 +1,10 @@
-## Hi there 👋
+### 👋 I'm Abubakar - aka "Beeko"
 
-- DevOps · Cloud · Full-Stack
-- London, UK  🇬🇧
-- Available On-site / Hybrid / Remote
+Software Engineer building cloud-native systems and full-stack applications in London.
+
+DevOps · Cloud Architecture · Full-Stack Development
+
+📍 London, UK · Open to On-site, Hybrid, or Remote
 
 
 <div>
