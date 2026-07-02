@@ -2,7 +2,7 @@
 
 Software Engineer building cloud-native systems and full-stack applications in London.
 
-DevOps · Cloud Architecture · Java Development · Full-Stack Development
+DevOps · Cloud Architecture · Junior Java Development · Full-Stack Development
 
 📍 London, UK · Open to On-site, Hybrid, or Remote
 
