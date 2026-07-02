@@ -18,7 +18,7 @@ DevOps · Cloud Architecture · Junior Java Development · Full-Stack Developmen
 
 ### 👋 About Me
 
-Software Engineer with hands-on experience building full-stack applications, REST APIs, and cloud infrastructure across the entire development lifecycle — from writing clean, testable code to deployment and monitoring. I've built real-time chat apps, microservices architectures, and self-healing VPN infrastructure on AWS. My background in customer-facing roles means I genuinely care about user experience, not just the code behind it. Currently volunteering as a DevOps engineer while actively building in public.
+Software Engineer with hands-on experience building full-stack applications, REST APIs, and cloud infrastructure across the entire development lifecycle from writing clean, testable code to deployment and monitoring. I've built real-time chat apps, microservices architectures, and self-healing VPN infrastructure on AWS. My background in customer-facing roles means I genuinely care about user experience, not just the code behind it. Currently volunteering as a DevOps engineer while actively building in public.
 
 
 
