@@ -125,7 +125,7 @@ Software Engineer with hands-on experience building full-stack applications, RES
 | Project | Stack | Live |
 |---------|-------|------|
 | **Codewars Leaderboard** — Real-time profile comparison app with dynamic filtering, sorting, and 100% Lighthouse accessibility score | `JS` `HTML` `CSS` `API` | [Live](https://codewars-board.netlify.app/) |
-| **Beeko Chat App** — Full-stack real-time multi-user chat with WebSocket + Express on a shared HTTP server | `React` `TypeScript` `Node.js` `Docker` | [Live](https://beeko-chat-apps.hosting.codeyourfuture.io/) |
+| **Beeko Chat App** — Full-stack real-time multi-user chat with WebSocket + Express on a shared HTTP server | `React` `TypeScript` `Node.js` `Docker` | [Live](https://beeko-chat-apps.trainees.hosting.cyf.academy/) |
 | **Hotel Management System** — 7-service microservices architecture with RabbitMQ event-driven comms and per-service PostgreSQL | `Java` `Spring Boot` `Docker` `RabbitMQ` | [Link](https://github.com/Abubakar-Meigag/hotel-management-system) |
 | **OpenVPN Infrastructure** — Self-healing VPN on AWS enabling secure developer access to private cloud resources. via Ansible, zero-downtime via Lambda + Auto Scaling | `Terraform` `Ansible` `AWS` `Python` `OAuth2` `Bash` | Private |
 
