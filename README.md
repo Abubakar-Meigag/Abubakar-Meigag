@@ -29,6 +29,18 @@ Software Engineer with hands-on experience building full-stack applications, RES
 
 ---
 
+<div align="center">
+  <img align="center" alt="GitHub Details" src="https://github-readme-streak-stats.herokuapp.com/?user=Abubakar-Meigag&theme=transparent&hide_border=true"/>
+  <img align="center" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abubakar-Meigag&theme=transparent"/>
+  <img align="center" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abubakar-Meigag&theme=transparent"/>
+  <img align="center" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abubakar-Meigag&theme=transparent&utcOffset=8"/>
+  <img align="center" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abubakar-Meigag&theme=transparent"/>
+  <img align="center" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abubakar-Meigag&theme=transparent"/>
+  <img align="center" alt="GitHub Details" src="https://github-readme-stats.vercel.app/api?username=Abubakar-Meigag&show_icons=true&theme=transparent&hide_border=true"/>
+</div>
+
+---
+
 ### 🖥️ Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -103,19 +115,6 @@ Software Engineer with hands-on experience building full-stack applications, RES
 ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 
 `TDD` · `REST APIs` · `Microservices` · `OAuth2` · `SSL/TLS` · `VPC` · `Agile/Scrum` · `WebSockets`
-
----
-
-<div align="center">
-  <img align="center" alt="GitHub Details" src="https://github-readme-streak-stats.herokuapp.com/?user=Abubakar-Meigag&theme=transparent&hide_border=true"/>
-  <img align="center" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abubakar-Meigag&theme=transparent"/>
-  <img align="center" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abubakar-Meigag&theme=transparent"/>
-  <img align="center" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abubakar-Meigag&theme=transparent&utcOffset=8"/>
-  <img align="center" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abubakar-Meigag&theme=transparent"/>
-  <img align="center" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abubakar-Meigag&theme=transparent"/>
-  <img align="center" alt="GitHub Details" src="https://github-readme-stats.vercel.app/api?username=Abubakar-Meigag&show_icons=true&theme=transparent&hide_border=true"/>
-</div>
-
 
 ---
 
