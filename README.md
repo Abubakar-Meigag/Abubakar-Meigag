@@ -33,7 +33,7 @@ Software Engineer with hands-on experience building full-stack applications, RES
 
 <div align="center">
   <img align="center" alt="GitHub Details" src="https://github-readme-streak-stats.herokuapp.com/?user=Abubakar-Meigag&theme=transparent&hide_border=true"/>
-  <!-- <img align="center" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abubakar-Meigag&theme=transparent"/> -->
+  <img align="center" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abubakar-Meigag&theme=transparent"/>
   <!-- <img align="center" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abubakar-Meigag&theme=transparent"/>
   <img align="center" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abubakar-Meigag&theme=transparent&utcOffset=8"/>
   <img align="center" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abubakar-Meigag&theme=transparent"/>
@@ -126,7 +126,8 @@ Software Engineer with hands-on experience building full-stack applications, RES
 |---------|-------|------|
 | **Codewars Leaderboard** — Real-time profile comparison app with dynamic filtering, sorting, and 100% Lighthouse accessibility score | `JS` `HTML` `CSS` `API` | [Live](https://codewars-board.netlify.app/) |
 | **Beeko Chat App** — Full-stack real-time multi-user chat with WebSocket + Express on a shared HTTP server | `React` `TypeScript` `Node.js` `Docker` | [Live](https://beeko-chat-apps.trainees.hosting.cyf.academy/) |
-| **Hotel Management System** — 7-service microservices architecture with RabbitMQ event-driven comms and per-service PostgreSQL | `Java` `Spring Boot` `Docker` `RabbitMQ` | [Link](https://github.com/Abubakar-Meigag/hotel-management-system) |
+| **Hotel Management System** — 7-service microservices architecture with RabbitMQ event-driven comms and per-service PostgreSQL | `Java` `Spring Boot` `Docker` `RabbitMQ` `GitHub Actions CI` | [Link](https://github.com/Abubakar-Meigag/hotel-management-system) |
+| **Hotel Management K8s** — GitOps deployment of the 7-service hotel platform with Helm, Istio service mesh, Argo CD, and Prometheus/Grafana monitoring, wired to GitHub Actions CI/CD | `Kubernetes` `Helm` `Istio` `Argo CD` `Prometheus` | [Link](https://github.com/Abubakar-Meigag/hotel-management-k8s) |
 | **OpenVPN Infrastructure** — Self-healing VPN on AWS enabling secure developer access to private cloud resources. via Ansible, zero-downtime via Lambda + Auto Scaling | `Terraform` `Ansible` `AWS` `Python` `OAuth2` `Bash` | Private |
 
 ---
