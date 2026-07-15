@@ -127,7 +127,7 @@ Software Engineer with hands-on experience building full-stack applications, RES
 | **Codewars Leaderboard** — Real-time profile comparison app with dynamic filtering, sorting, and 100% Lighthouse accessibility score | `JS` `HTML` `CSS` `API` | [Live](https://codewars-board.netlify.app/) |
 | **Beeko Chat App** — Full-stack real-time multi-user chat with WebSocket + Express on a shared HTTP server | `React` `TypeScript` `Node.js` `Docker` | [Live](https://beeko-chat-apps.trainees.hosting.cyf.academy/) |
 | **Hotel Management System** — 7-service microservices architecture with RabbitMQ event-driven comms and per-service PostgreSQL | `Java` `Spring Boot` `Docker` `RabbitMQ` `GitHub Actions CI` | [Link](https://github.com/Abubakar-Meigag/hotel-management-system) |
-| **Hotel Management K8s** — GitOps deployment of the 7-service hotel platform with Helm, Istio service mesh, Argo CD, and Prometheus/Grafana monitoring, wired to GitHub Actions CI/CD | `Kubernetes` `Helm` `Istio` `Argo CD` `Prometheus` | [Link](https://github.com/Abubakar-Meigag/hotel-management-k8s) |
+| **Hotel Management K8s** — GitOps deployment of the 7-service hotel platform with Helm, Istio service mesh, Argo CD, and Prometheus/Grafana monitoring | `Kubernetes` `Helm` `Istio` `Argo CD` `Prometheus` | [Link](https://github.com/Abubakar-Meigag/hotel-management-k8s) |
 | **OpenVPN Infrastructure** — Self-healing VPN on AWS enabling secure developer access to private cloud resources. via Ansible, zero-downtime via Lambda + Auto Scaling | `Terraform` `Ansible` `AWS` `Python` `OAuth2` `Bash` | Private |
 
 ---
