@@ -32,7 +32,7 @@ Software Engineer with hands-on experience building full-stack applications, RES
 ## 📊 GitHub Stats:
 
 <div align="center">
-<img align="center" alt="GitHub Details" url="https://github-readme-streak-stats.herokuapp.com/?user=Abubakar-Meigag&theme=transparent&hide_border=true"/>
+<img align="center" alt="GitHub Details" src="https://github-readme-streak-stats.herokuapp.com/?user=Abubakar-Meigag&theme=transparent&hide_border=true"/>
   <img align="center" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abubakar-Meigag&theme=transparent"/>
   <img align="center" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abubakar-Meigag&theme=transparent"/>
   <img align="center" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abubakar-Meigag&theme=transparent&utcOffset=8"/>
